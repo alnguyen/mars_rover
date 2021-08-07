@@ -31,7 +31,7 @@ defmodule RoverTest do
     end
   end
 
-  describe "execute/1 - single steps" do
+  describe "execute/1" do
     setup do
       rover =
         Rover.new(%{
