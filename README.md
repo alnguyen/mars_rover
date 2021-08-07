@@ -43,6 +43,7 @@ The output for each rover should be its final co-ordinates and heading.
 INPUT AND OUTPUT
 
 ------------------------------------------------------------------
+```
 Test Input 1:
 5 5
 1 2 N
@@ -53,7 +54,9 @@ MMRMMRMRRM
 Expected Output 1:
 1 3 N
 5 1 E
+```
 ------------------------------------------------------------------
+```
 Test Input 2:
 3 3
 0 0 S
@@ -63,7 +66,8 @@ LMLMRM
 
 Expected Output 2:
 2 1 N
-1 0 S
+1 0 S # This might be incorrect
+```
 ==================================================================
 
 ### Test
