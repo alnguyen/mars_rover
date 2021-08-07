@@ -77,5 +77,5 @@ Expected Output 2:
 ### Run
 
 1. `iex -S mix`
-1. `iex(1)> MarsRover.run()
+1. `iex(1)> MarsRover.run()`
 1. Follow the prompts
